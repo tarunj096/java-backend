@@ -1,5 +1,5 @@
-##Just some Core-Java concepts revised
+## Just some Core-Java concepts revised
 
-###Topics
+### Topics
 * Exception handling
 * Lambdas
